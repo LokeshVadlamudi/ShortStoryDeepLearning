@@ -7,7 +7,8 @@ Techniques Covered:
 3. Network Architecture Search
 4. Knowledge Distillation
 
-
+Medium Link:
+https://medium.com/@lokesh.dev96/deep-learning-and-computer-vision-in-low-power-devices-cfdf90d65182
 
 
 Slide Share Link
